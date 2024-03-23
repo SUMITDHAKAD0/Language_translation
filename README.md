@@ -30,4 +30,4 @@ pip install -r requirements.txt
 python run.py
 ```
 
-![Interface](https://github.com/github.png)
+![Interface](sample.PNG)
